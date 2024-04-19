@@ -29,6 +29,7 @@ local playerData = {
 	}
 }
 
+print("xd")
 
 return {
 	tagName = "Apartament",
